@@ -30,7 +30,7 @@ class Term extends Component {
                   </p>
                   <div className="mdl-card__actions mdl-card--border">
                     <a onClick={() => this.showAnswer()} className="answerButton" href="#">ANSWER</a>
-                    <a className="homeButton" href="/index.html">HOME</a>
+                    <a className="nextButton" href={this.props.route.next}>NEXT</a>
                   </div>
                 </div>
               </div>

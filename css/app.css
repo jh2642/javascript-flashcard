@@ -46,7 +46,7 @@
 }
 
 .flashCard {
-  margin-left: 500px;
+  margin-left: 515px;
   margin-top: 50px;
 }
 
@@ -58,11 +58,17 @@
 .answerButton {
   color: #F8DA60;
   font-size: 18px;
-  margin-left: 50px;
+  margin: 50px;
 }
 
 .homeButton {
-  margin-left: 80px;
   color: black;
   font-size: 18px;
+  margin: 50px;
+}
+
+.nextButton {
+  color: black;
+  font-size: 18px;
+  margin: 50px;
 }
